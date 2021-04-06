@@ -9,4 +9,10 @@ Packages Lab is to a great extent known for first-class content identifying with
 
 Inital Release.
 
-#Official Support Link: https://packageslab.com/
+#Chrome Extension
+
+The same task can you perform with Chrom extension, by which you can check out the Internet, Call, & SMS packages by just one click. So keep Save your time and use the chrome extension. 
+
+Official Chrome extension Link are: https://chrome.google.com/webstore/detail/packageslab/einkojdecdgndlalolpkkaabiaggfapi
+
+
